@@ -70,14 +70,6 @@ In any browser (phone or PC) go to: http://YOUR_ESP32_IP
 
 → Click the buttons and watch the light bulb turn on/off instantly!
 
-📁 Important Files
-
-File           Description
-src/main.cpp  Complete ESP32 web server code
-index.html    Standalone HTML file (assignment requirement)
-platformio.ini Configuration for PlatformIO
-
-
 Practice B (Bluetooth Classic) – Coming Soon
 Serial bridge between ESP32 and mobile phone using the “Serial Bluetooth Terminal” app.
 (Will be added in the same repository after finishing Part B)
