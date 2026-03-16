@@ -1,9 +1,9 @@
 # Práctica 3: WiFi y Bluetooth (ESP32)
 
 **Asignatura:** Microcontroladores y Microprocesadores  
-**Alumno:** [Tu Nombre Aquí]  
+**Alumno:** [Marco Carrasco Carmona]  
 **Fecha:** Marzo 2026  
-**Repositorio:** Práctica 3A - Servidor Web + Práctica 3B (próximamente)
+**Repositorio:** Práctica 3A - Servidor Web
 
 ## Práctica A - Generación de Página Web (Modo STA)
 
